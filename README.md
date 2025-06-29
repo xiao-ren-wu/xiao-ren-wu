@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning distributed consistency algorithm ***Raft*** and try to use java language to implement a raft system that can be used at production level！！
-It's an exciting idea！ I also write some related technical blogs and documents ⚡ [https://xiao-ren-wu.github.io/raft-blogs/](https://xiao-ren-wu.github.io/raft-blogs/zh-cn/)，If you are interested in raft algorithm, you can pay close attention to me and witness together.
+
